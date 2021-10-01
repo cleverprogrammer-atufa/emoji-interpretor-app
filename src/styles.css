@@ -1,0 +1,11 @@
+.App {
+  font-family: lato;
+  text-align: center;
+}
+body{
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
